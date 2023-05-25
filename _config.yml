@@ -3,7 +3,7 @@ title: ackandsyn
 tagline: 
 url: ackandsyn.github.io
 paginate: 1
-baseurl: "ackandsyn.github.io"
+baseurl: "ackandsyn.github.io/ackandsyn/"
 permalink: pretty
 
 # Gems
